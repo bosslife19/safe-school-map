@@ -1,129 +1,57 @@
-import { useEffect, useState } from 'react';
-import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet';
-import 'leaflet/dist/leaflet.css';
-import 'leaflet-defaulticon-compatibility/dist/leaflet-defaulticon-compatibility.css';
-import 'leaflet-defaulticon-compatibility';
-import './index.css';
-import useMapStore from './hooks/useMapState';
-import MapControls from './components/MapControls';
-import SchoolMarker from './components/SchoolMarker';
-import PropTypes from 'prop-types';
-
+import React, { useEffect } from "react";
+import GoogleMaps from "./components/GoogleMap";
+import { useState } from "react";
+import "./index.css";
+import axios from "axios";
+import logo from "../src/assets/safelogo.png";
 function App() {
-  const { zoomLevel, setZoomLevel, mapCenter, setMapBounds, selectedZip } = useMapStore();
+  const [form, setForm] = useState({
+    name: "",
+    address: "",
+    latitude: "",
+    longitude: "",
+    radius: 500,
+  });
+  const [latitude, setLatitude] = useState(37.0902);
+  const [longitude, setLongitude] = useState(-95.7129);
+  const [address, setAddress] = useState();
   const [schools, setSchools] = useState([]);
-  const [usStates, setUsStates] = useState({ type: "FeatureCollection", features: [] });
-  const [isLoading, setIsLoading] = useState(false);
-  const [error, setError] = useState(null);
 
   useEffect(() => {
-    // Fetch US states data
-    const fetchStates = async () => {
-      try {
-        const response = await fetch('/data/us-states.json');
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        const data = await response.json();
-        console.log('US States Data:', data); // Debug log
-        setUsStates(data);
-      } catch (err) {
-        console.error('Error fetching states data:', err);
-        setError('Error fetching states data');
-      }
+    const getSchools = async () => {
+      const res = await axios.get("/data/schooldata.json");
+      setSchools(res.data);
     };
 
-    fetchStates();
+    getSchools();
   }, []);
-
-  useEffect(() => {
-    // Fetch school data
-    const fetchSchools = async () => {
-      setIsLoading(true);
-      setError(null);
-
-      try {
-        const response = await fetch('/data/SchoolInformation.json');
-        if (!response.ok) {
-          throw new Error('Network response was not ok');
-        }
-        const data = await response.json();
-        console.log('Schools Data:', data); // Debug log
-        setSchools(data);
-        setIsLoading(false);
-      } catch (err) {
-        console.error('Error fetching schools data:', err);
-        setError('Error fetching schools data');
-        setIsLoading(false);
-      }
-    };
-
-    fetchSchools();
-  }, []);
-
-  const handleStateClick = (e) => {
-    const map = e.target._map;
-    map.flyTo(e.latlng, 8);
-    setZoomLevel(8);
-  };
-
-  const handleMapMove = (e) => {
-    const bounds = e.target.getBounds();
-    setMapBounds(bounds);
-  };
-
-  // Filter schools based on selected zip code
-  const filteredSchools = selectedZip
-    ? schools.filter((school) => school.zipCode === selectedZip)
-    : schools;
-
   return (
-    <div className="map-container">
-      <div className="title">SafeSchool|MAP℠</div>
-      <MapControls />
-      
-      <MapContainer
-        center={mapCenter}
-        zoom={zoomLevel}
-        scrollWheelZoom={true}
-        className="map"
-        aria-label="School Map"
-        whenCreated={map => {
-          map.on('moveend', handleMapMove);
-        }}
-      >
-        <TileLayer
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        />
-        
-        {usStates.features.length > 0 && (
-          <GeoJSON
-            key={JSON.stringify(usStates)}
-            data={usStates}
-            onEachFeature={(feature, layer) => {
-              layer.on('click', handleStateClick);
-            }}
-          />
-        )}
-        
-        {isLoading && (
-          <div className="loading-overlay">
-            <div className="spinner"></div>
-            Loading schools...
-          </div>
-        )}
-        
-        {filteredSchools.map((school) => (
-          <SchoolMarker key={school.name} school={school} />
-        ))}
-      </MapContainer>
+    <>
+    <div className="relative">
+    <div className="z-50 absolute left-[45%] top-[-2%]">
+    <img src={logo} alt="" className="w-[200px] h-[100px] object-contain" />
     </div>
+     <div className="flex flex-col">
+     <div className="w-[100%] h-screen">
+        <GoogleMaps
+          style="w-[50%] px-4 py-2 border-b-[1px] border-[#E5E5E3]"
+          address={address}
+          setAddress={setAddress}
+          radius={form.radius}
+          latitude={latitude}
+          longitude={longitude}
+          setLatitude={setLatitude}
+          setLongitude={setLongitude}
+          schools={schools}
+        />
+      </div>
+    
+     </div>
+
+    </div>
+    
+    </>
   );
 }
-
-App.propTypes = {
-  // Add prop types validation if needed
-};
 
 export default App;
