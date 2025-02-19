@@ -28,8 +28,8 @@ function App() {
   return (
     <>
     <div className="relative">
-    <div className="z-50 absolute left-[45%] top-[-2%]">
-    <img src={logo} alt="" className="w-[200px] h-[100px] object-contain" />
+    <div className="z-50 absolute left-[50%] top-[-3%]">
+    <img src={logo} alt="" className="w-[180px] h-[100px] object-contain" />
     </div>
      <div className="flex flex-col">
      <div className="w-[100%] h-screen">

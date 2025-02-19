@@ -174,33 +174,51 @@ function GoogleMaps({
             onLoad={(ref) => (inputRef.current = ref)}
             onPlacesChanged={handlePlaceChanged}
           > */}
-            <div className="relative ml-48 mt-[10px] w-[500px]">
-            <select
-  className={`form-control text-black rounded-full bg-white ${style}`}
-  value={address}
-  onChange={(e) => setAddress(e.target.value)}
->
-  <option value="">Select a zip code</option>
-  {
-    schools?.map((school)=>(
-      <>
-      <option value={`${school['ZIP Code']}`}>{school['ZIP Code']}</option>
+<div style={{ 
+  position: "absolute", 
+  top: "60px", 
+  left: "10px", 
+  display: "flex", 
+  alignItems: "center" 
+}}>
+  <select
+    style={{
+      width: "120px",
+      padding: "10px",
+      border: "1px solid #ccc",
+      backgroundColor: "white",
+      color: "black",
+      fontSize: "14px"
+    }}
+    value={address}
+    onChange={(e) => setAddress(e.target.value)}
+  >
+    <option value="">Select a zip code</option>
+    {schools?.map((school,index) => (
+      <option key={index} value={school['ZIP Code']}>
+        {school['ZIP Code']}
+      </option>
+    ))}
+  </select>
 
-      </>
+  <button
+    onClick={searchZip}
+    style={{
+      height: "40px",
+      backgroundColor: "black",
+      color: "white",
+      border: "2px solid black",
+      borderRadius: "8px",
+      fontSize: "14px",
+      fontWeight: "bold",
+      cursor: "pointer",
+      transition: "background-color 0.3s ease"
+    }}
+  >
+    <span>Search</span>
+  </button>
+</div>
 
-    ))
-  }
-
-</select>
-
-            </div>
-            {/* <button onClick={searchZip} className="text-black font-bold z-50">Search zip</button> */}
-          {/* </StandaloneSearchBox> */}
-          
-          <button onClick={searchZip} className="z-50 flex bg-black justify-center items-center p-6 h-[40px] text-white  transition duration-300 rounded-full hover:bg-stone-200 border-2  absolute left-[25%] top-[2%]">
-            <span className="text-xs text-white">Search Zip Code</span>
-          </button>
-          
 
           {
             !schoolLat && zipCodes.length>0 && zipCodes.map(zipCode=>(
