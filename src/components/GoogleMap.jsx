@@ -91,6 +91,7 @@ function GoogleMaps({
       setSchoolLat(location.lat);
       setSchoolLng(location.lng);
       setCenter({lat:location.lat, lng:location.lng});
+     
        setZoom(30);
     } catch (error) {
       console.error("Error fetching location:", error);
@@ -203,11 +204,14 @@ function GoogleMaps({
                   <div
                     key={index}
                     className="bg-white shadow-lg rounded-lg border p-4 cursor-pointer transition-transform transform hover:scale-105"
-                    onClick={() => setExpandedIndex(expandedIndex === index ? null : index)}
+                    onClick={() => {
+                      toggleExpand(index); // Toggle the expansion of the clicked card
+                      fetchLocation(school.Street); // Fetch the location based on the street address
+                    }}
                   >
                     <h2 className="text-lg font-bold text-blue-800">{school["School Name"]}</h2>
                     <p className="text-gray-600">{school.City}</p>
-                    {expandedIndex === index && (
+                    {expandedIndex === index &&(
                       <div className="border-t mt-2 pt-2 text-gray-700">
                         <p><strong>State:</strong> {school.State}</p>
                         <p><strong>Street:</strong> {school.Street}</p>
