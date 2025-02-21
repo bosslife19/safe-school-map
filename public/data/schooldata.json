@@ -2,26 +2,26 @@
   {
     "System Name": "Adullam House Christian Academy",
     "School Name": "Adullam House Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "7469 Georgia Rd",
     "City": "Wetumpka",
     "State": "AL",
     "ZIP Code": "36092",
     "Phone": "334.478.3888",
     "Website": "www.adullamhouseca.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Auburn Classical Academy, Inc.",
     "School Name": "Auburn Classical Academy, Inc.",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "445 Shelton Mill Rd",
     "City": "Auburn",
     "State": "AL",
     "ZIP Code": "36830",
     "Phone": "334.821.7081",
     "Website": "www.auburnclassicalacademy.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Auburn Classical Academy, Inc.",
@@ -38,14 +38,14 @@
   {
     "System Name": "Birmingham Catholic Schools",
     "School Name": "Birmingham Catholic Schools",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "2121 Third Avenue North",
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35203",
     "Phone": "205.838.8303",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Birmingham Catholic Schools",
@@ -331,8 +331,8 @@
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35216",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-PK"
   },
   {
@@ -350,14 +350,14 @@
   {
     "System Name": "Coosa Valley Academy",
     "School Name": "Coosa Valley Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "163 Park St",
     "City": "Harpersville",
     "State": "AL",
     "ZIP Code": "35078",
-    "Phone": "N/A",
+    "Phone": "",
     "Website": "Not Supplied",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Coosa Valley Academy",
@@ -374,14 +374,14 @@
   {
     "System Name": "John T Morgan Academy",
     "School Name": "John T Morgan Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "2901 West Dallas Avenue",
     "City": "Selma",
     "State": "AL",
     "ZIP Code": "36701-2650",
     "Phone": "334.875.4464",
     "Website": "www.morganacademy.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "John T Morgan Academy",
@@ -415,14 +415,14 @@
     "City": "Mobile",
     "State": "AL",
     "ZIP Code": "36602",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Mobile Catholic Schools",
     "School Name": "Christ The King School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1503 Main St",
     "City": "Daphne",
     "State": "AL",
@@ -452,8 +452,8 @@
     "State": "AL",
     "ZIP Code": "36603",
     "Phone": "251.432.5270",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Mobile Catholic Schools",
@@ -606,7 +606,7 @@
     "Street": "2048 W Fairview Ave",
     "City": "Montgomery",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "36116-1153",
     "Phone": "334.264.5376",
     "Website": "info@stjudeei.org",
     "Grade Range": "12-Jul"
@@ -618,9 +618,9 @@
     "Street": "2048 W Fairview Ave",
     "City": "Montgomery",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36116-1153",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "12-Sep"
   },
   {
@@ -686,14 +686,14 @@
   {
     "System Name": "Montessori School at Hampstead, Inc.",
     "School Name": "Montessori School at Hampstead, Inc.",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "5251 Hampstead high St., Ste. 111",
     "City": "Montgomery",
     "State": "AL",
     "ZIP Code": "36116",
     "Phone": "334.356.1969",
     "Website": "www.mshmontgomery.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Montessori School at Hampstead, Inc.",
@@ -710,14 +710,14 @@
   {
     "System Name": "Omnia Classical School",
     "School Name": "Omnia Classical School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "501 Rice Valley Rd",
     "City": "Tuscaloosa",
     "State": "AL",
     "ZIP Code": "35406",
     "Phone": "205.758.5502",
     "Website": "www.riverwoodclassical.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Omnia Classical School",
@@ -729,7 +729,7 @@
     "ZIP Code": "35405",
     "Phone": "205.752.1284",
     "Website": "www.omniaclassical.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Omnia Classical School",
@@ -741,7 +741,7 @@
     "ZIP Code": "35405",
     "Phone": "205.752.1284",
     "Website": "www.omniaclassical.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -758,13 +758,13 @@
   {
     "System Name": "Private Schools",
     "School Name": "ABC Kindergarten",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "3618 Oak Tree Drive",
     "City": "Semmes",
     "State": "AL",
     "ZIP Code": "36575",
     "Phone": "251.649.4844",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "5-Mar"
   },
   {
@@ -776,7 +776,7 @@
     "State": "AL",
     "ZIP Code": "36854",
     "Phone": "334.576.4975",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -813,7 +813,7 @@
     "ZIP Code": "36695",
     "Phone": "251.639.1022",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -842,14 +842,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Alabama Christian Education Association",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "P O Box 559",
     "City": "Gardendale",
     "State": "AL",
     "ZIP Code": "35071",
     "Phone": "205.631.3000",
     "Website": "www.alabamachristianed.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -890,7 +890,7 @@
   {
     "System Name": "Private Schools",
     "School Name": "Aldersgate Weekday Children's Ministry Preschool",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "6610 Vaughn Road",
     "City": "Montgomery",
     "State": "AL",
@@ -906,10 +906,10 @@
     "Street": "112 W Hawthorne Rd",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -931,8 +931,8 @@
     "City": "Prichard",
     "State": "AL",
     "ZIP Code": "36610",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-06"
   },
   {
@@ -942,10 +942,10 @@
     "Street": "P O Box 6238",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36602",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -956,7 +956,7 @@
     "State": "AL",
     "ZIP Code": "35960",
     "Phone": "256.557.9701",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-06"
   },
   {
@@ -967,9 +967,9 @@
     "City": "Pelham",
     "State": "AL",
     "ZIP Code": "35124",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -990,9 +990,9 @@
     "Street": "1912 Canyon Rd",
     "City": "Vestavia Hills",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-OK"
   },
   {
@@ -1010,7 +1010,7 @@
   {
     "System Name": "Private Schools",
     "School Name": "Ashford Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1100 N Broadway St",
     "City": "Ashford",
     "State": "AL",
@@ -1062,10 +1062,10 @@
     "Street": "245 Tennant Drive",
     "City": "Atmore",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36502",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1094,7 +1094,7 @@
   {
     "System Name": "Private Schools",
     "School Name": "AWAKE Community School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "222 6th Avenue SW",
     "City": "Birmingham",
     "State": "AL",
@@ -1106,26 +1106,26 @@
   {
     "System Name": "Private Schools",
     "School Name": "Azalea City Christian",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "3550 Schillingers Road N",
     "City": "Semmes",
     "State": "AL",
     "ZIP Code": "36575",
     "Phone": "251.649.5437",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Banks Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "8301 8th Avenue South",
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35206",
     "Phone": "205.834.5433",
     "Website": "www.banksacademy.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1137,7 +1137,7 @@
     "ZIP Code": "36532",
     "Phone": "251.929.0011",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1146,7 +1146,7 @@
     "Street": "303 Dryer Avenue",
     "City": "Daphne",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "36526",
     "Phone": "251.338.6300",
     "Website": "www.baysideacademy.org",
     "Grade Range": "PK-12"
@@ -1171,9 +1171,9 @@
     "City": "Montgomery",
     "State": "AL",
     "ZIP Code": "36107",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1182,9 +1182,9 @@
     "Street": "714 Cedar St",
     "City": "Montgomery",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36116-1153",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-OK"
   },
   {
@@ -1206,10 +1206,10 @@
     "Street": "1301 Bethel Road North E",
     "City": "Hartselle",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "",
     "Phone": "256.773.2154",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1231,14 +1231,14 @@
     "City": "Midland City",
     "State": "AL",
     "ZIP Code": "36350",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Bethlehem Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1936 Elkwood Section Road",
     "City": "Hazel Green",
     "State": "AL",
@@ -1257,16 +1257,16 @@
     "ZIP Code": "36575",
     "Phone": "251.649.4006",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Bible Methodist Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1355 Chula Vista Drive",
     "City": "Pell City",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "35128",
     "Phone": "205.338.3012",
     "Website": "https:// bmcschool.org",
     "Grade Range": "OK-12"
@@ -1279,9 +1279,9 @@
     "City": "Snead",
     "State": "AL",
     "ZIP Code": "35952",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1292,19 +1292,19 @@
     "State": "AL",
     "ZIP Code": "35763-9210",
     "Phone": "256.518.9642",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-09"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Birmingham Institute Church",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "9825 Bear Creek Rd Hwy 43",
     "City": "Sterrett",
     "State": "AL",
     "ZIP Code": "35147",
     "Phone": "205.674.7647",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -1317,7 +1317,7 @@
     "ZIP Code": "35226",
     "Phone": "205.822.0910",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1326,9 +1326,9 @@
     "Street": "1600 Browns Ferry Road",
     "City": "Madison",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35758",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "12-Jul"
   },
   {
@@ -1339,8 +1339,8 @@
     "City": "Montgomery",
     "State": "AL",
     "ZIP Code": "36104",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "12-Jul"
   },
   {
@@ -1350,7 +1350,7 @@
     "Street": "6255 Cahaba Valley Rd",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "35203",
     "Phone": "205.776.5902",
     "Website": "www.bcsk12.org",
     "Grade Range": "PK-12"
@@ -1370,14 +1370,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Brooklane Baptist Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "160 Brooklane Dr.",
     "City": "Hueytown",
     "State": "AL",
     "ZIP Code": "35023",
     "Phone": "205.497.0967",
     "Website": "BrooklaneBaptistAcademy.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1399,8 +1399,8 @@
     "City": "Hoover",
     "State": "AL",
     "ZIP Code": "35244",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "12-Oct"
   },
   {
@@ -1410,7 +1410,7 @@
     "Street": "2415 Montevallo Rd",
     "City": "Centreville",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "",
     "Phone": "205.926.4676",
     "Website": "www.cahawbachristianacademy.com",
     "Grade Range": "PK-12"
@@ -1422,15 +1422,15 @@
     "Street": "P O Box 1610",
     "City": "Calera",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Calvary Baptist Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "126 Douglass Road NW",
     "City": "Huntsville",
     "State": "AL",
@@ -1448,7 +1448,7 @@
     "State": "AL",
     "ZIP Code": "36619-1699",
     "Phone": "334.660.1951",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-05"
   },
   {
@@ -1459,9 +1459,9 @@
     "City": "Prattville",
     "State": "AL",
     "ZIP Code": "36067",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1470,9 +1470,9 @@
     "Street": "2005-B North Country Club",
     "City": "Montgomery",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "36116-1153",
     "Phone": "334.834.2273",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "12-Sep"
   },
   {
@@ -1483,9 +1483,9 @@
     "City": "Piedmont",
     "State": "AL",
     "ZIP Code": "36272",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1495,9 +1495,9 @@
     "City": "Madison",
     "State": "AL",
     "ZIP Code": "35758-5420",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1507,8 +1507,8 @@
     "City": "Montgomery",
     "State": "AL",
     "ZIP Code": "36117",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-OK"
   },
   {
@@ -1520,7 +1520,7 @@
     "State": "AL",
     "ZIP Code": "36701",
     "Phone": "334.872.9997",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -1530,9 +1530,9 @@
     "Street": "1401 Huffman Rd",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-08"
   },
   {
@@ -1542,9 +1542,9 @@
     "Street": "809 Seminary St",
     "City": "Prichard",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36610",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "12-Jun"
   },
   {
@@ -1554,9 +1554,9 @@
     "Street": "998 Dauphin Island Pkwy",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36602",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -1569,7 +1569,7 @@
     "ZIP Code": "36567-7052",
     "Phone": "251.947.5043",
     "Website": "www.ccssaints.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1581,7 +1581,7 @@
     "ZIP Code": "36736",
     "Phone": "334.992.2351",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1610,14 +1610,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Chapman Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "4711 Chapman Road",
     "City": "Millbrook",
     "State": "AL",
     "ZIP Code": "36054",
     "Phone": "334.285.5354",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1627,8 +1627,8 @@
     "City": "Jemison",
     "State": "AL",
     "ZIP Code": "35085",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -1640,7 +1640,7 @@
     "State": "AL",
     "ZIP Code": "36541",
     "Phone": "251.423.4102",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "8-Jan"
   },
   {
@@ -1689,7 +1689,7 @@
     "ZIP Code": "35173",
     "Phone": "205.661.1030",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1698,10 +1698,10 @@
     "Street": "701 Collegedale Avenue",
     "City": "Troy",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36081",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1722,9 +1722,9 @@
     "Street": "P O Box 3975",
     "City": "Huntsville",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "35806",
     "Phone": "256.851.9800",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-PK"
   },
   {
@@ -1735,9 +1735,9 @@
     "City": "Decatur",
     "State": "AL",
     "ZIP Code": "35601",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1766,13 +1766,13 @@
   {
     "System Name": "Private Schools",
     "School Name": "Cornerstone Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1600 McCurdy Avenue, N.",
     "City": "Rainsville",
     "State": "AL",
     "ZIP Code": "35986-1488",
     "Phone": "256.638.9311",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-09"
   },
   {
@@ -1782,22 +1782,22 @@
     "Street": "2885 Choccolocco Rd",
     "City": "Anniston",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36205",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "12-Jan"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Cornerstone Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "P. O. Box 1691",
     "City": "Oneonta",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35121",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1808,13 +1808,13 @@
     "State": "AL",
     "ZIP Code": "35051-3531",
     "Phone": "205.669.5340",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Cornerstone Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "3211 Spring Ave SW",
     "City": "Decatur",
     "State": "AL",
@@ -1886,7 +1886,7 @@
   {
     "System Name": "Private Schools",
     "School Name": "Cottage Hill Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "7355 Creekwood Drive",
     "City": "Mobile",
     "State": "AL",
@@ -1917,7 +1917,7 @@
     "ZIP Code": "35803",
     "Phone": "256.882.3668",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1927,9 +1927,9 @@
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35224",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1939,9 +1939,9 @@
     "City": "Troy",
     "State": "AL",
     "ZIP Code": "36081",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -1982,98 +1982,98 @@
   {
     "System Name": "Private Schools",
     "School Name": "Covenant Classical School and Daycare",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "6590 Husky Parkway",
     "City": "Trussville",
     "State": "AL",
     "ZIP Code": "35173",
     "Phone": "205.508.7044",
     "Website": "www.ccslion.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Covenant Classical School and Daycare",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "220 Exchange Place",
     "City": "Huntsville",
     "State": "AL",
     "ZIP Code": "35806",
     "Phone": "256.837.5437",
     "Website": "www.ccslion.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Covenant Classical School and Daycare",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "7015 Cabela Drive",
     "City": "Huntsville",
     "State": "AL",
     "ZIP Code": "35806",
     "Phone": "256.382.7323",
     "Website": "www.ccslion.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Covenant Classical School and Daycare",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "151 Covenant Way",
     "City": "Homewood",
     "State": "AL",
     "ZIP Code": "35209",
     "Phone": "205.968.1255",
     "Website": "www.ccslion.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Covenant Classical School and Daycare",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "420 Huntley Pkwy",
     "City": "Pelham",
     "State": "AL",
     "ZIP Code": "35124",
     "Phone": "205.620.2626",
     "Website": "www.ccslion.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Covenant Classical School and Daycare",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "25 Southlake Lane",
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35244",
     "Phone": "205.444.5437",
     "Website": "www.ccslion.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Covenant Classical School and Daycare",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "5390 Magnolia Trace",
     "City": "Hoover",
     "State": "AL",
     "ZIP Code": "35244",
     "Phone": "205.733.5437",
     "Website": "www.ccslion.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Covenant School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1310 St Joseph Drive NW",
     "City": "Cullman",
     "State": "AL",
     "ZIP Code": "35055",
     "Phone": "256.739.0505",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2083,8 +2083,8 @@
     "City": "Huntsville",
     "State": "AL",
     "ZIP Code": "35810",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-PK"
   },
   {
@@ -2094,9 +2094,9 @@
     "Street": "1650 28th Court S",
     "City": "Homewood",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35209-4097",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "OK-06"
   },
   {
@@ -2121,12 +2121,12 @@
     "ZIP Code": "36609",
     "Phone": "251.639.0004",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Cullman Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1803 Beech Avenue SE",
     "City": "Cullman",
     "State": "AL",
@@ -2180,20 +2180,20 @@
     "State": "AL",
     "ZIP Code": "35007",
     "Phone": "205.664.1600",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "11-Jul"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Dixon Total Touch Child Development Center",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "P O Box 10651",
     "City": "Prichard",
     "State": "AL",
     "ZIP Code": "36610",
     "Phone": "251.456.5251",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2202,9 +2202,9 @@
     "Street": "811 Glenn Rd",
     "City": "Bessemer",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35022",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-05"
   },
   {
@@ -2214,9 +2214,9 @@
     "Street": "5600 First Avenue North",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-05"
   },
   {
@@ -2226,9 +2226,9 @@
     "Street": "7753 First Avenue S",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "OK-05"
   },
   {
@@ -2239,14 +2239,14 @@
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35212",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "East Memorial Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1320 Old Ridge Rd E",
     "City": "Prattville",
     "State": "AL",
@@ -2265,7 +2265,7 @@
     "ZIP Code": "36116-1328",
     "Phone": "334.272.5097",
     "Website": "www.eastmontgomerymontessori.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2277,7 +2277,7 @@
     "ZIP Code": "36526",
     "Phone": "251.111.1111",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2288,13 +2288,13 @@
     "State": "AL",
     "ZIP Code": "36109",
     "Phone": "334.277.6300",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Eastwood Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1701 East Trinity Blvd",
     "City": "Montgomery",
     "State": "AL",
@@ -2318,13 +2318,13 @@
   {
     "System Name": "Private Schools",
     "School Name": "Ellwood Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1 Bell Rd",
     "City": "Selma",
     "State": "AL",
     "ZIP Code": "36701-7732",
     "Phone": "334.877.1581",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -2336,7 +2336,7 @@
     "State": "AL",
     "ZIP Code": "36093",
     "Phone": "334.567.0555",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -2370,9 +2370,9 @@
     "Street": "2000 Dr Martin Luther King Ave",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "36602",
     "Phone": "334.478.1140",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "8-Jan"
   },
   {
@@ -2384,7 +2384,7 @@
     "State": "AL",
     "ZIP Code": "36331",
     "Phone": "334.308.1313",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -2396,7 +2396,7 @@
     "State": "AL",
     "ZIP Code": "35211",
     "Phone": "205.786.2194",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -2406,7 +2406,7 @@
     "Street": "156 South Ninth St",
     "City": "Gadsden",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "35901-2564",
     "Phone": "256.546.9071",
     "Website": "www.episcopal-day-school.org",
     "Grade Range": "PK-12"
@@ -2431,9 +2431,9 @@
     "City": "Gadsden",
     "State": "AL",
     "ZIP Code": "35902-1172",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2457,7 +2457,7 @@
     "ZIP Code": "36571",
     "Phone": "251.675.4619",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2478,10 +2478,10 @@
     "Street": "P O Box 1670",
     "City": "Alabaster",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35007",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2516,7 +2516,7 @@
     "State": "AL",
     "ZIP Code": "36608-8318",
     "Phone": "251.633.7267",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -2528,7 +2528,7 @@
     "State": "AL",
     "ZIP Code": "36608-8318",
     "Phone": "251.633.7267",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -2540,7 +2540,7 @@
     "State": "AL",
     "ZIP Code": "36608-8318",
     "Phone": "251.633.7267",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -2552,7 +2552,7 @@
     "State": "AL",
     "ZIP Code": "36608-8318",
     "Phone": "251.633.7267",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -2564,7 +2564,7 @@
     "State": "AL",
     "ZIP Code": "36608-8318",
     "Phone": "251.633.7267",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -2576,7 +2576,7 @@
     "State": "AL",
     "ZIP Code": "36608-8318",
     "Phone": "251.633.7267",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -2588,7 +2588,7 @@
     "State": "AL",
     "ZIP Code": "35611-4047",
     "Phone": "256.233.3778",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -2598,10 +2598,10 @@
     "Street": "3979 County Rd 434",
     "City": "Moulton",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2611,9 +2611,9 @@
     "City": "Roanoke",
     "State": "AL",
     "ZIP Code": "36274-0305",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2623,9 +2623,9 @@
     "City": "Alexander City",
     "State": "AL",
     "ZIP Code": "35010",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2634,7 +2634,7 @@
     "Street": "4100 Ronnaki Road",
     "City": "Anniston",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "36205",
     "Phone": "256.236.4499",
     "Website": "www.faithchristian.info",
     "Grade Range": "PK-12"
@@ -2649,7 +2649,7 @@
     "ZIP Code": "35807",
     "Phone": "256.881.8844",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2658,10 +2658,10 @@
     "Street": "P O Box 1106",
     "City": "Hayneville",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2670,9 +2670,9 @@
     "Street": "1703 Dr M L King Jr Avenue",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36602",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-03"
   },
   {
@@ -2685,7 +2685,7 @@
     "ZIP Code": "36205",
     "Phone": "256.820.5911",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2696,8 +2696,8 @@
     "State": "AL",
     "ZIP Code": "36541",
     "Phone": "251.865.4399",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2718,10 +2718,10 @@
     "Street": "2309 2nd Ave N",
     "City": "Pell City",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35128",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2731,9 +2731,9 @@
     "City": "Wetumpka",
     "State": "AL",
     "ZIP Code": "36092",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2754,7 +2754,7 @@
     "Street": "138 S Washington St",
     "City": "Prattville",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "36067-9702",
     "Phone": "334.361.9481",
     "Website": "www.outreach-solutions.com/fbcpratt",
     "Grade Range": "PK-OK"
@@ -2769,7 +2769,7 @@
     "ZIP Code": "36027",
     "Phone": "334.687.1111",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2778,10 +2778,10 @@
     "Street": "4723 Saks Road",
     "City": "Anniston",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36205",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2790,10 +2790,10 @@
     "Street": "3509 Blue Spring Rd",
     "City": "Huntsville",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35806",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2803,9 +2803,9 @@
     "City": "Dothan",
     "State": "AL",
     "ZIP Code": "36305",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2814,10 +2814,10 @@
     "Street": "4220 Oakwood Drive",
     "City": "Adamsville",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2826,9 +2826,9 @@
     "Street": "2416 West Cloverdale Park",
     "City": "Montgomery",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36116-1153",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-OK"
   },
   {
@@ -2840,8 +2840,8 @@
     "State": "AL",
     "ZIP Code": "35150",
     "Phone": "256.249.2300",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2850,10 +2850,10 @@
     "Street": "1630 Powder Plant Road",
     "City": "Bessemer",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35022",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2875,9 +2875,9 @@
     "City": "Florence",
     "State": "AL",
     "ZIP Code": "35630",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2887,9 +2887,9 @@
     "City": "Montgomery",
     "State": "AL",
     "ZIP Code": "36116",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2924,7 +2924,7 @@
     "State": "AL",
     "ZIP Code": "35214-3799",
     "Phone": "205.798.1248",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-06"
   },
   {
@@ -2947,9 +2947,9 @@
     "City": "Ft Rucker",
     "State": "AL",
     "ZIP Code": "36362",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2959,9 +2959,9 @@
     "City": "Ft Rucker",
     "State": "AL",
     "ZIP Code": "36362",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -2973,18 +2973,18 @@
     "ZIP Code": "36312",
     "Phone": "334.899.3987",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Future Generation Learning Ctr",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "109 East South Boulevard",
     "City": "Montgomery",
     "State": "AL",
     "ZIP Code": "36105",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "2-Feb"
   },
   {
@@ -2995,9 +2995,9 @@
     "City": "Gadsden",
     "State": "AL",
     "ZIP Code": "35902",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3006,10 +3006,10 @@
     "Street": "9029 Airport Road",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3032,8 +3032,8 @@
     "State": "AL",
     "ZIP Code": "35023",
     "Phone": "205.744.8135",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3044,8 +3044,8 @@
     "State": "AL",
     "ZIP Code": "35443",
     "Phone": "205.496.1175",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3056,7 +3056,7 @@
     "State": "AL",
     "ZIP Code": "36877-0310",
     "Phone": "334.297.3614",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -3068,20 +3068,20 @@
     "State": "AL",
     "ZIP Code": "35243",
     "Phone": "205.967.7611",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-OK"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Good Shepherd Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "5851 Plantation Road",
     "City": "Theodore",
     "State": "AL",
     "ZIP Code": "36585",
     "Phone": "251.653.8579",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3098,14 +3098,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Grace Baptist Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "8780 Howells Ferry Road",
     "City": "Semmes",
     "State": "AL",
     "ZIP Code": "36575",
     "Phone": "251.649.7398",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3127,9 +3127,9 @@
     "City": "Gulf Shores",
     "State": "AL",
     "ZIP Code": "36542",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3139,8 +3139,8 @@
     "City": "Mobile",
     "State": "AL",
     "ZIP Code": "36695",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-10"
   },
   {
@@ -3164,7 +3164,7 @@
     "State": "AL",
     "ZIP Code": "36607",
     "Phone": "251.478.9200",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-OK"
   },
   {
@@ -3176,7 +3176,7 @@
     "State": "AL",
     "ZIP Code": "35243-1920",
     "Phone": "205.971.5753",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -3188,7 +3188,7 @@
     "State": "AL",
     "ZIP Code": "35203",
     "Phone": "205.960.6444",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -3237,7 +3237,7 @@
     "ZIP Code": "36801",
     "Phone": "251.786.1580",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3248,7 +3248,7 @@
     "State": "AL",
     "ZIP Code": "36111-2300",
     "Phone": "334.281.3300",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-08"
   },
   {
@@ -3272,8 +3272,8 @@
     "State": "AL",
     "ZIP Code": "36420",
     "Phone": "334.222.8356",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3283,33 +3283,33 @@
     "City": "Montgomery",
     "State": "AL",
     "ZIP Code": "36117",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Guntersville Child Development Center",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "P O Box 673",
     "City": "Guntersville",
     "State": "AL",
     "ZIP Code": "35976",
     "Phone": "256.582.8806",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Guntersville HeadStart",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "461 Drive Inn",
     "City": "Guntersville",
     "State": "AL",
     "ZIP Code": "35976",
     "Phone": "256.891.3423",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3321,7 +3321,7 @@
     "ZIP Code": "35763",
     "Phone": "256.539.3773",
     "Website": "www.hamptoncoveacademy.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3331,9 +3331,9 @@
     "City": "Winfield",
     "State": "AL",
     "ZIP Code": "35594",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3354,10 +3354,10 @@
     "Street": "7303 Taylors Ferry Road",
     "City": "Bessemer",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35022",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3366,10 +3366,10 @@
     "Street": "4500 Vaughn Road",
     "City": "Montgomery",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36116-1153",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3378,10 +3378,10 @@
     "Street": "9444 Highway 22",
     "City": "Montevallo",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3398,13 +3398,13 @@
   {
     "System Name": "Private Schools",
     "School Name": "Higdon Hill School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "6869 5th Ave. S",
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35212",
     "Phone": "205.838.4031",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "12-May"
   },
   {
@@ -3426,9 +3426,9 @@
     "Street": "2421 Lott Rd",
     "City": "Eight Mile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-01"
   },
   {
@@ -3453,7 +3453,7 @@
     "ZIP Code": "36104",
     "Phone": "334.263.0522",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3470,14 +3470,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Holy Family Elementary School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1916 19th Street Ensley",
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35218",
     "Phone": "205.780.5858",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3486,7 +3486,7 @@
     "Street": "2001 19th St - Ensley",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "35203",
     "Phone": "205.787.9937",
     "Website": "www.hfcristorey.org",
     "Grade Range": "12-Sep"
@@ -3512,7 +3512,7 @@
     "State": "AL",
     "ZIP Code": "35216",
     "Phone": "205.987.3376",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-09"
   },
   {
@@ -3537,7 +3537,7 @@
     "ZIP Code": "35555",
     "Phone": "205.333.1111",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3546,10 +3546,10 @@
     "Street": "P O Box 563",
     "City": "Alabaster",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35007",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3558,10 +3558,10 @@
     "Street": "P O Box 141",
     "City": "Huntsville",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35806",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3584,7 +3584,7 @@
     "State": "AL",
     "ZIP Code": "35801-5124",
     "Phone": "256.539.1772",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -3595,21 +3595,21 @@
     "City": "Huntsville",
     "State": "AL",
     "ZIP Code": "35806",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Huntsville College Preparatory School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "4217 9th Ave SW",
     "City": "Huntsville",
     "State": "AL",
     "ZIP Code": "35805-3400",
     "Phone": "256.207.8075",
     "Website": "www.hcpschool.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3633,7 +3633,7 @@
     "ZIP Code": "35476",
     "Phone": "205.333.3291",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3674,14 +3674,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Integrity Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "216 Roebuck Drive",
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35215",
     "Phone": "205.833.4416",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3714,7 +3714,7 @@
     "Street": "1810 25th Court South",
     "City": "Homewood",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "35209-4097",
     "Phone": "205.870.0422",
     "Website": "iaaschool.net",
     "Grade Range": "PK-12"
@@ -3727,9 +3727,9 @@
     "City": "Huntsville",
     "State": "AL",
     "ZIP Code": "35816",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3740,7 +3740,7 @@
     "State": "AL",
     "ZIP Code": "36695-4572",
     "Phone": "251.639.1311",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "12-Jun"
   },
   {
@@ -3763,9 +3763,9 @@
     "City": "Grand Bay",
     "State": "AL",
     "ZIP Code": "36541",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3776,7 +3776,7 @@
     "State": "AL",
     "ZIP Code": "36265-2757",
     "Phone": "256.435.3333",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -3798,10 +3798,10 @@
     "Street": "1500 Heritage Place Drive",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3812,7 +3812,7 @@
     "State": "AL",
     "ZIP Code": "35550",
     "Phone": "205.522.5633",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -3824,7 +3824,7 @@
     "State": "AL",
     "ZIP Code": "35211",
     "Phone": "205.925.6900",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "6-Jun"
   },
   {
@@ -3846,9 +3846,9 @@
     "Street": "Post Office Box 837",
     "City": "Northport",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35476",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-OK"
   },
   {
@@ -3858,34 +3858,34 @@
     "Street": "800 Greensboro Avenue",
     "City": "Tuscaloosa",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35405-3208",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Kids Korner",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "539 Gunter Avenue",
     "City": "Guntersville",
     "State": "AL",
     "ZIP Code": "35976",
     "Phone": "256.571.0420",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Kingdom Kids",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "4525 Wueth Drive",
     "City": "Guntersville",
     "State": "AL",
     "ZIP Code": "35976",
     "Phone": "256.582.5518",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3894,9 +3894,9 @@
     "Street": "200 Harvest Way",
     "City": "Alabaster",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35007",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "OK-OK"
   },
   {
@@ -3906,10 +3906,10 @@
     "Street": "1501 Knollwood Drive",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36602",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3926,7 +3926,7 @@
   {
     "System Name": "Private Schools",
     "School Name": "Knowledge Works Learning Academy, Inc/Kai Wa'Diya Learning Academy, Inc-KWLA",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "903 South Railroad Street",
     "City": "Phenix City",
     "State": "AL",
@@ -3942,9 +3942,9 @@
     "Street": "5025 Spring Creek Drive",
     "City": "Guntersville",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35976",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-02"
   },
   {
@@ -3957,19 +3957,19 @@
     "ZIP Code": "36830",
     "Phone": "334.887.7094",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Lampleys Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "107 Village Road",
     "City": "Midway",
     "State": "AL",
     "ZIP Code": "36053",
     "Phone": "334.695.8009",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -3978,10 +3978,10 @@
     "Street": "10485 County Road 460",
     "City": "Moulton",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4005,19 +4005,19 @@
     "ZIP Code": "36078",
     "Phone": "334.252.0025",
     "Website": "www.learning-tree.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Learning Tree The",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "6344 Roy Webb Rd",
     "City": "Peidmont",
     "State": "AL",
     "ZIP Code": "36272-0908",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4052,20 +4052,20 @@
     "State": "AL",
     "ZIP Code": "36611",
     "Phone": "251.456.2652",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Lighthouse",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "6335 Swedetown Road N",
     "City": "Theodore",
     "State": "AL",
     "ZIP Code": "36582",
     "Phone": "251.653.6542",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4076,20 +4076,20 @@
     "State": "AL",
     "ZIP Code": "36116",
     "Phone": "334.271.4200",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Lighthouse Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "P O Box 59",
     "City": "Clinton",
     "State": "AL",
     "ZIP Code": "35448",
     "Phone": "205.372.6344",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4111,9 +4111,9 @@
     "City": "Andalusia",
     "State": "AL",
     "ZIP Code": "36420",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4122,10 +4122,10 @@
     "Street": "1060 Government St",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36602",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4136,7 +4136,7 @@
     "State": "AL",
     "ZIP Code": "36752-0099",
     "Phone": "334.278.3366",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -4159,9 +4159,9 @@
     "City": "Tuscaloosa",
     "State": "AL",
     "ZIP Code": "35405",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4170,9 +4170,9 @@
     "Street": "15396 Vaughn Rd",
     "City": "Cecil",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "",
     "Phone": "334.277.6566",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -4231,9 +4231,9 @@
     "City": "Madison",
     "State": "AL",
     "ZIP Code": "35758-9713",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4242,9 +4242,9 @@
     "Street": "6058 Theodore-Dawes Road",
     "City": "Theodore",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36585",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-08"
   },
   {
@@ -4256,7 +4256,7 @@
     "State": "AL",
     "ZIP Code": "35212-2138",
     "Phone": "205.591.8100",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "12-Jun"
   },
   {
@@ -4278,9 +4278,9 @@
     "Street": "8 Marietta Drive",
     "City": "Fairhope",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36532",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-08"
   },
   {
@@ -4292,7 +4292,7 @@
     "State": "AL",
     "ZIP Code": "36756-5930",
     "Phone": "334.683.8204",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -4326,10 +4326,10 @@
     "Street": "800 Magnolia Blvd Bldg 538",
     "City": "Maxwell Afb",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4338,10 +4338,10 @@
     "Street": "1095 Carl T Jones Drive",
     "City": "Huntsville",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35806",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4364,7 +4364,7 @@
     "State": "AL",
     "ZIP Code": "36701",
     "Phone": "334.872.8078",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-OK"
   },
   {
@@ -4388,7 +4388,7 @@
     "State": "AL",
     "ZIP Code": "35214",
     "Phone": "205.422.8506",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-08"
   },
   {
@@ -4399,9 +4399,9 @@
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35207",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4424,12 +4424,12 @@
     "State": "AL",
     "ZIP Code": "35211",
     "Phone": "205.925.2417",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
     "System Name": "Private Schools",
-    "School Name": "Miss BettyÂ’s Preschool",
+    "School Name": "Miss Bettys Preschool",
     "Administrator": "Betty Fuller",
     "Street": "210 Free Street",
     "City": "Moulton ",
@@ -4437,19 +4437,19 @@
     "ZIP Code": "35650",
     "Phone": "256.974.9892",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Miss Kim's Nursey School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "800 Gunter Avenue",
     "City": "Guntersville",
     "State": "AL",
     "ZIP Code": "35976",
     "Phone": "256.582.2497",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4458,15 +4458,15 @@
     "Street": "2424 Gordon Smith Dr",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36602",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Mobile Bay Montessori",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "20900 Highway 181",
     "City": "Fairhope",
     "State": "AL",
@@ -4494,9 +4494,9 @@
     "Street": "1900 Cody Road S",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36602",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "OK-08"
   },
   {
@@ -4507,9 +4507,9 @@
     "City": "Mobile",
     "State": "AL",
     "ZIP Code": "36618",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4530,10 +4530,10 @@
     "Street": "402 Johnson St",
     "City": "Decatur",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35603",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4542,10 +4542,10 @@
     "Street": "15975 Chaney Thompson Road",
     "City": "Huntsville",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "35806",
     "Phone": "256.881.3790",
     "Website": "www.montessorihuntsville.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4554,10 +4554,10 @@
     "Street": "527 Buckingham Dr",
     "City": "Montgomery",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36116-1153",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4579,14 +4579,14 @@
     "City": "Montgomery",
     "State": "AL",
     "ZIP Code": "36117",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Morae Classical School of Auburn",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "Lot 1 WC Davis Industrial Park",
     "City": "Opelika",
     "State": "AL",
@@ -4604,13 +4604,13 @@
     "State": "AL",
     "ZIP Code": "35474",
     "Phone": "205.454.9586",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-09"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Mountain Brook Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "2829 Thornhill Road",
     "City": "Mountain Brook",
     "State": "AL",
@@ -4627,8 +4627,8 @@
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35243",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-PK"
   },
   {
@@ -4640,7 +4640,7 @@
     "State": "AL",
     "ZIP Code": "35958",
     "Phone": "256.597.3467",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -4651,9 +4651,9 @@
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35235",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4676,8 +4676,8 @@
     "State": "AL",
     "ZIP Code": "35064",
     "Phone": "205.780.5096",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4688,7 +4688,7 @@
     "State": "AL",
     "ZIP Code": "35213-2412",
     "Phone": "205.879.1068",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-08"
   },
   {
@@ -4706,14 +4706,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Nazaree Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1675 W 165 Service Road N",
     "City": "Mobile",
     "State": "AL",
     "ZIP Code": "36618",
     "Phone": "251.471.8021",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4722,10 +4722,10 @@
     "Street": "700 E Cottonwood",
     "City": "Dothan",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36301",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4737,7 +4737,7 @@
     "ZIP Code": "35476",
     "Phone": "205.111.1111",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4760,20 +4760,20 @@
     "State": "AL",
     "ZIP Code": "35211",
     "Phone": "205.925.9399",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "5-May"
   },
   {
     "System Name": "Private Schools",
     "School Name": "New life Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "4230 Highway 14",
     "City": "millbrook",
     "State": "AL",
     "ZIP Code": "36054",
     "Phone": "334.285.5615",
     "Website": "www.newlifechristianacademy.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4783,9 +4783,9 @@
     "City": "Troy",
     "State": "AL",
     "ZIP Code": "36081-1085",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4794,10 +4794,10 @@
     "Street": "1945 Drewry Rd",
     "City": "Monroeville",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36460",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4819,9 +4819,9 @@
     "City": "Huntsville",
     "State": "AL",
     "ZIP Code": "35816",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4831,14 +4831,14 @@
     "City": "Valley Head",
     "State": "AL",
     "ZIP Code": "35989",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
     "System Name": "Private Schools",
     "School Name": "North Mobile Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1255 Industrial Pkwy",
     "City": "Saraland",
     "State": "AL",
@@ -4856,8 +4856,8 @@
     "State": "AL",
     "ZIP Code": "35406",
     "Phone": "205.349.4881",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4866,10 +4866,10 @@
     "Street": "4812 Yonderhill Drive",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4881,7 +4881,7 @@
     "ZIP Code": "36110",
     "Phone": "334.356.6045",
     "Website": "northpointchurch.net",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4903,8 +4903,8 @@
     "City": "Dothan",
     "State": "AL",
     "ZIP Code": "36303",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-07"
   },
   {
@@ -4914,10 +4914,10 @@
     "Street": "5080 Cahaba Valley Trace",
     "City": "Birmingham",
     "State": "Al",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35215",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4929,7 +4929,7 @@
     "ZIP Code": "36695",
     "Phone": "251.633.8045",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4939,8 +4939,8 @@
     "City": "Huntsville",
     "State": "AL",
     "ZIP Code": "35896",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -4950,10 +4950,10 @@
     "Street": "1000 Lee Road 263",
     "City": "Cusseta",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4963,9 +4963,9 @@
     "City": "Tuscaloosa",
     "State": "AL",
     "ZIP Code": "35406",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4975,9 +4975,9 @@
     "City": "Foley",
     "State": "AL",
     "ZIP Code": "36535",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -4987,9 +4987,9 @@
     "City": "Eufaula",
     "State": "AL",
     "ZIP Code": "36027",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5013,7 +5013,7 @@
     "ZIP Code": "35905",
     "Phone": "256.494.1600",
     "Website": "www.pathways-academy.org",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5060,7 +5060,7 @@
     "State": "AL",
     "ZIP Code": "36608",
     "Phone": "251.366.5558",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-03"
   },
   {
@@ -5072,8 +5072,8 @@
     "State": "AL",
     "ZIP Code": "36868",
     "Phone": "334.298.3588",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5083,8 +5083,8 @@
     "City": "Mobile",
     "State": "AL",
     "ZIP Code": "36617",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "OK-08"
   },
   {
@@ -5096,7 +5096,7 @@
     "State": "AL",
     "ZIP Code": "35447",
     "Phone": "205.367.8144",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -5114,14 +5114,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Pine Grove Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "35 County Road 3062",
     "City": "Double Springs",
     "State": "AL",
     "ZIP Code": "35553",
     "Phone": "205.489.5062",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5138,14 +5138,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Praise Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "2633 Dawes Road",
     "City": "Mobile",
     "State": "AL",
     "ZIP Code": "36695",
     "Phone": "251.219.4460",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5180,7 +5180,7 @@
     "State": "AL",
     "ZIP Code": "35758",
     "Phone": "256.864.8450",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-OK"
   },
   {
@@ -5216,7 +5216,7 @@
     "State": "AL",
     "ZIP Code": "35757",
     "Phone": "205.426.3394",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-08"
   },
   {
@@ -5229,7 +5229,7 @@
     "ZIP Code": "35950",
     "Phone": "256.891.1002",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5238,10 +5238,10 @@
     "Street": "4847 Murphy Mill Road",
     "City": "Dothan",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36301",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5264,7 +5264,7 @@
     "State": "AL",
     "ZIP Code": "35802",
     "Phone": "256.799.6100",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -5275,9 +5275,9 @@
     "City": "Oneonta",
     "State": "AL",
     "ZIP Code": "35121",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5287,9 +5287,9 @@
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35233",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5301,7 +5301,7 @@
     "ZIP Code": "35808",
     "Phone": "256.876.3704",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5318,14 +5318,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Revelation Baptist",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1711 Taylor Lane",
     "City": "Mobile",
     "State": "AL",
     "ZIP Code": "36605",
     "Phone": "251.473.2555",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5337,7 +5337,7 @@
     "ZIP Code": "35903",
     "Phone": "256.494.3034",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5348,8 +5348,8 @@
     "State": "AL",
     "ZIP Code": "35244",
     "Phone": "205.989.8070",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5390,13 +5390,13 @@
   {
     "System Name": "Private Schools",
     "School Name": "Ross Christian Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1130 Bellview St",
     "City": "Montgomery",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "36116-1153",
     "Phone": "334.264.2971",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-05"
   },
   {
@@ -5408,13 +5408,13 @@
     "State": "AL",
     "ZIP Code": "35072-3627",
     "Phone": "256.839.1546",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "3-Mar"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Rushton School-Gateway",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "5201 Messer Airport Hwy",
     "City": "Birmingham",
     "State": "AL",
@@ -5430,9 +5430,9 @@
     "Street": "2035 Highland Ave South",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-PK"
   },
   {
@@ -5450,7 +5450,7 @@
   {
     "System Name": "Private Schools",
     "School Name": "Saint James School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "6010 Vaughn Rd",
     "City": "Montgomery",
     "State": "AL",
@@ -5474,14 +5474,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Samson Baptist Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "8 West Main Street",
     "City": "Samson",
     "State": "AL",
     "ZIP Code": "36477",
     "Phone": "334.898.2213",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5492,7 +5492,7 @@
     "State": "AL",
     "ZIP Code": "36572",
     "Phone": "334.675.1295",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-08"
   },
   {
@@ -5504,7 +5504,7 @@
     "State": "AL",
     "ZIP Code": "35768",
     "Phone": "256.259.5398",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -5514,10 +5514,10 @@
     "Street": "9275 Vickers Road",
     "City": "Semmes",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36575",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5551,9 +5551,9 @@
     "City": "Silverhill",
     "State": "AL",
     "ZIP Code": "36576-0145",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5562,10 +5562,10 @@
     "Street": "2211 Skyland Blvd East",
     "City": "Tuscaloosa",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35405-3208",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5575,9 +5575,9 @@
     "City": "Madison",
     "State": "AL",
     "ZIP Code": "35758",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5600,7 +5600,7 @@
     "State": "AL",
     "ZIP Code": "36036-0010",
     "Phone": "334.864.9852",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -5634,9 +5634,9 @@
     "Street": "1124 Montgomery Hwy",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-06"
   },
   {
@@ -5658,10 +5658,10 @@
     "Street": "2 South McGregor Ave",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36602",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5670,10 +5670,10 @@
     "Street": "P O Box 131431",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5707,9 +5707,9 @@
     "City": "Cullman",
     "State": "AL",
     "ZIP Code": "35055",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5721,7 +5721,7 @@
     "ZIP Code": "35953",
     "Phone": "205.594.2280",
     "Website": "www.stclairdayprogram.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5733,7 +5733,7 @@
     "ZIP Code": "35953",
     "Phone": "205.594.2280",
     "Website": "www.stclairdayprogram.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5743,9 +5743,9 @@
     "City": "Ft Mitchell",
     "State": "AL",
     "ZIP Code": "36856",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5779,8 +5779,8 @@
     "City": "Mobile",
     "State": "AL",
     "ZIP Code": "36609",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-01"
   },
   {
@@ -5798,7 +5798,7 @@
   {
     "System Name": "Private Schools",
     "School Name": "St Paul's Lutheran School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "510 3rd Ave SE",
     "City": "Cullman",
     "State": "AL",
@@ -5840,7 +5840,7 @@
     "State": "AL",
     "ZIP Code": "36830",
     "Phone": "334.787.9089",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-03"
   },
   {
@@ -5851,9 +5851,9 @@
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35206",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5864,7 +5864,7 @@
     "State": "AL",
     "ZIP Code": "36575",
     "Phone": "251.645.2070",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "12-Mar"
   },
   {
@@ -5875,9 +5875,9 @@
     "City": "Roanoke",
     "State": "AL",
     "ZIP Code": "36274-0305",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5888,13 +5888,13 @@
     "State": "AL",
     "ZIP Code": "36116",
     "Phone": "334.819.8005",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Sumiton Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "155 Hosanna Drive",
     "City": "Sumiton",
     "State": "AL",
@@ -5912,7 +5912,7 @@
     "State": "AL",
     "ZIP Code": "35904-3047",
     "Phone": "256.546.9265",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -5925,7 +5925,7 @@
     "ZIP Code": "36054",
     "Phone": "334.285.6873",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5948,7 +5948,7 @@
     "State": "AL",
     "ZIP Code": "35801",
     "Phone": "256.534.6866",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-OK"
   },
   {
@@ -5973,7 +5973,7 @@
     "ZIP Code": "36831",
     "Phone": "334.826.3600",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5983,9 +5983,9 @@
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35235",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -5997,7 +5997,7 @@
     "ZIP Code": "35802",
     "Phone": "256.880.1444",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6009,7 +6009,7 @@
     "ZIP Code": "35071",
     "Phone": "205.631.9318",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6020,20 +6020,20 @@
     "State": "AL",
     "ZIP Code": "35749",
     "Phone": "256.698.8911",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Temple Christian",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "2615 64th Blvd",
     "City": "Valley",
     "State": "AL",
     "ZIP Code": "36854",
     "Phone": "334.756.4432",
     "Website": "www.templechristian.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6042,10 +6042,10 @@
     "Street": "P O Box 483",
     "City": "Atmore",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36502",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6067,9 +6067,9 @@
     "City": "Huntsville",
     "State": "AL",
     "ZIP Code": "35801",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6080,7 +6080,7 @@
     "State": "AL",
     "ZIP Code": "36609-5502",
     "Phone": "251.343.1700",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "12-Jun"
   },
   {
@@ -6098,7 +6098,7 @@
   {
     "System Name": "Private Schools",
     "School Name": "The Center For Excellence",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "516 Tuskegee St",
     "City": "Talladega",
     "State": "AL",
@@ -6116,7 +6116,7 @@
     "State": "AL",
     "ZIP Code": "36207-6399",
     "Phone": "256.237.5477",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -6150,10 +6150,10 @@
     "Street": "60 Roebuck Drive",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6187,14 +6187,14 @@
     "City": "Chelsea",
     "State": "AL",
     "ZIP Code": "35043",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "The Lakeside School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1020 Lake Dr",
     "City": "Eufaula",
     "State": "AL",
@@ -6206,14 +6206,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "The Little Tree Preschool",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "421 Opelika Road",
     "City": "Auburn",
     "State": "AL",
     "ZIP Code": "36830",
     "Phone": "334.826.1847",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6222,10 +6222,10 @@
     "Street": "2334 Pansy St",
     "City": "Huntsville",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35806",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6258,9 +6258,9 @@
     "Street": "3811 Old Shell Rd",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36602",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "12-Jun"
   },
   {
@@ -6273,7 +6273,7 @@
     "ZIP Code": "36526",
     "Phone": "251.786.1580",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6283,9 +6283,9 @@
     "City": "Madison",
     "State": "AL",
     "ZIP Code": "35758",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6362,18 +6362,18 @@
   {
     "System Name": "Private Schools",
     "School Name": "The Rock",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "6245 Old Rangeline Road",
     "City": "Theodore",
     "State": "AL",
     "ZIP Code": "36582",
     "Phone": "251.408.0202",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
-    "School Name": "The Sunshine School at ChildrenÂ’s of Alabama",
+    "School Name": "The Sunshine School at Childrens of Alabama",
     "Administrator": "Jennifer Conway",
     "Street": "1600 7th Avenue South",
     "City": "Birmingham",
@@ -6392,7 +6392,7 @@
     "State": "AL",
     "ZIP Code": "36830",
     "Phone": "334.887.7726",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-07"
   },
   {
@@ -6405,11 +6405,11 @@
     "ZIP Code": "35242",
     "Phone": "205.955.9694",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
-    "School Name": "Trailblazer Academy-St MaryÂ’s Home",
+    "School Name": "Trailblazer Academy-St Marys Home",
     "Administrator": "Norman Carter",
     "Street": "4350 Moffett Rd",
     "City": "Mobile",
@@ -6417,7 +6417,7 @@
     "ZIP Code": "36618",
     "Phone": "251.344.7733",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6427,9 +6427,9 @@
     "City": "Cullman",
     "State": "AL",
     "ZIP Code": "35055",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6440,7 +6440,7 @@
     "State": "AL",
     "ZIP Code": "36203-2553",
     "Phone": "256.831.3333",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -6463,9 +6463,9 @@
     "City": "Opelika",
     "State": "AL",
     "ZIP Code": "36801-0311",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6476,7 +6476,7 @@
     "State": "AL",
     "ZIP Code": "36617",
     "Phone": "251.456.7960",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-07"
   },
   {
@@ -6498,9 +6498,9 @@
     "Street": "2037 Edinburg Court",
     "City": "Montgomery",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36116-1153",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-06"
   },
   {
@@ -6511,8 +6511,8 @@
     "City": "Owens Cross Roads",
     "State": "AL",
     "ZIP Code": "35763-9612",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "12-Jun"
   },
   {
@@ -6560,7 +6560,7 @@
     "State": "AL",
     "ZIP Code": "35294",
     "Phone": "205.934.4574",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "12-May"
   },
   {
@@ -6620,8 +6620,8 @@
     "State": "AL",
     "ZIP Code": "35555",
     "Phone": "205.270.1449",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6638,7 +6638,7 @@
   {
     "System Name": "Private Schools",
     "School Name": "Valiant Cross Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "301 Dexter Ave",
     "City": "Montgomery",
     "State": "AL",
@@ -6656,8 +6656,8 @@
     "State": "AL",
     "ZIP Code": "35816-4112",
     "Phone": "256.533.5248",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6668,7 +6668,7 @@
     "State": "AL",
     "ZIP Code": "36854-0416",
     "Phone": "334.756.2868",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -6679,9 +6679,9 @@
     "City": "Leeds",
     "State": "AL",
     "ZIP Code": "35094",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6690,21 +6690,21 @@
     "Street": "1600 7th Ave S Ste 500",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Veritas Academy",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "4011 Lakewood Drive",
     "City": "Phenix City",
     "State": "AL",
     "ZIP Code": "36867",
     "Phone": "334.448.0389",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "OK-10"
   },
   {
@@ -6714,10 +6714,10 @@
     "Street": "P O Box 1090",
     "City": "Millbrook",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36054",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6726,10 +6726,10 @@
     "Street": "43800 Highway 25",
     "City": "Vincent",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6739,9 +6739,9 @@
     "City": "Pell City",
     "State": "AL",
     "ZIP Code": "35125",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6750,10 +6750,10 @@
     "Street": "20511 County Rd 12",
     "City": "Foley",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "36535",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6764,8 +6764,8 @@
     "State": "AL",
     "ZIP Code": "35125",
     "Phone": "205.237.5242",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6774,21 +6774,21 @@
     "Street": "21325 US Hwy 31 N",
     "City": "Vinemont",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
     "System Name": "Private Schools",
     "School Name": "Vivian B Adams School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "2047 Stuart Tarter Rd",
     "City": "Ozark",
     "State": "AL",
     "ZIP Code": "36360",
     "Phone": "334.774.5132",
-    "Website": "N/A",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -6798,10 +6798,10 @@
     "Street": "Po Box 20466",
     "City": "Tuscaloosa",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35405-3208",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6811,9 +6811,9 @@
     "City": "Madison",
     "State": "AL",
     "ZIP Code": "35757",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6822,9 +6822,9 @@
     "Street": "P.O. Box 268, 920 Warrior Academy",
     "City": "Eutaw",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-12"
   },
   {
@@ -6834,10 +6834,10 @@
     "Street": "P O Box 530703",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6847,9 +6847,9 @@
     "City": "Birmingham",
     "State": "AL",
     "ZIP Code": "35203",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6858,9 +6858,9 @@
     "Street": "2061 Kentucky Avenue",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-PK"
   },
   {
@@ -6870,15 +6870,15 @@
     "Street": "227 Hillcrest Road",
     "City": "Mobile",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36602",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-03"
   },
   {
     "System Name": "Private Schools",
     "School Name": "West Alabama Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1504 Cardinal Street",
     "City": "Demopolis",
     "State": "AL",
@@ -6895,8 +6895,8 @@
     "City": "Mobile",
     "State": "AL",
     "ZIP Code": "36608",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "PK-01"
   },
   {
@@ -6906,10 +6906,10 @@
     "Street": "140 County Road 1242",
     "City": "Cullman",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35055",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6938,14 +6938,14 @@
   {
     "System Name": "Private Schools",
     "School Name": "Westgate Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "617 Westgate Pkwy",
     "City": "Dothan",
     "State": "AL",
     "ZIP Code": "36303",
     "Phone": "334.793.3399",
     "Website": "www.westgatechristian.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -6966,10 +6966,10 @@
     "Street": "6806 Whitesburg Dr",
     "City": "Huntsville",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35806",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -7026,7 +7026,7 @@
     "Street": "209 W College St",
     "City": "Enterprise",
     "State": "AL",
-    "ZIP Code": "N/A",
+    "ZIP Code": "36331",
     "Phone": "334.939.8972",
     "Website": "wiregrasschristianacademy.org",
     "Grade Range": "PK-06"
@@ -7039,20 +7039,20 @@
     "City": "Monroeville",
     "State": "AL",
     "ZIP Code": "36430",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
     "School Name": "Word Of Life Institute Christian School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "351 South Craft Highway",
     "City": "Chickasaw",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
+    "ZIP Code": "36611",
+    "Phone": "",
+    "Website": "",
     "Grade Range": "OK-12"
   },
   {
@@ -7062,10 +7062,10 @@
     "Street": "4244 Third Ave South",
     "City": "Birmingham",
     "State": "AL",
-    "ZIP Code": "N/A",
-    "Phone": "N/A",
-    "Website": "N/A",
-    "Grade Range": "N/A"
+    "ZIP Code": "35203",
+    "Phone": "",
+    "Website": "",
+    "Grade Range": ""
   },
   {
     "System Name": "Private Schools",
@@ -7082,25 +7082,25 @@
   {
     "System Name": "Troy Support Center",
     "School Name": "Troy Support Center",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1101 S. Brundidge St.",
     "City": "Troy",
     "State": "AL",
     "ZIP Code": "36082",
-    "Phone": "N/A",
+    "Phone": "",
     "Website": "Not Supplied",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   },
   {
     "System Name": "Troy Support Center",
     "School Name": "Home School",
-    "Administrator": "N/A",
+    "Administrator": "",
     "Street": "1101 S. Brundidge St.",
     "City": "Troy",
     "State": "AL",
     "ZIP Code": "36082",
-    "Phone": "N/A",
+    "Phone": "",
     "Website": "www.nonesupplied.com",
-    "Grade Range": "N/A"
+    "Grade Range": ""
   }
-]
+ ]

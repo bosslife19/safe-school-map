@@ -28,7 +28,7 @@ function App() {
   return (
     <>
     <div className="relative">
-    <div className="z-50 absolute left-[50%] top-[-3%]">
+    <div className="z-50 absolute left-[50%] top-[-1%] hidden md:block">
     <img src={logo} alt="" className="w-[180px] h-[100px] object-contain" />
     </div>
      <div className="flex flex-col">

@@ -27,7 +27,7 @@ function GoogleMaps({
   const [searchedLat, setSearchedLat] = useState('');
   const [searchedLng, setSearchedLng] = useState('')
   const [zipCodes, setZipCodes] = useState([])
-  const [zoom, setZoom] = useState(10)
+  const [zoom, setZoom] = useState(5)
   
   const [schoolLat, setSchoolLat] = useState();
   const [schoolLng, setSchoolLng] = useState();
@@ -106,7 +106,6 @@ function GoogleMaps({
       const res = await axios.get(
         `https://maps.googleapis.com/maps/api/geocode/json?address=${address}&key=${import.meta.env.VITE_GOOGLE_MAP_API_KEY}`
       );
-  
       
   
       setSearchedLat(res.data.results[0]?.geometry?.location?.lat);
@@ -159,148 +158,69 @@ function GoogleMaps({
   };
   
   return (
-    <div className="w-full h-full">
+<div className="w-full h-full flex flex-col items-center bg-gray-100 p-4">
       {!isLoaded ? (
-        <h1>Loading...</h1>
+        <h1 className="text-xl font-semibold">Loading...</h1>
       ) : (
         <>
-                <GoogleMap
-          mapContainerClassName="map-container"
-          center={center}
-          zoom={zoom}
-          onLoad={(map) => setMap(map)}
-        >
-          {/* <StandaloneSearchBox
-            onLoad={(ref) => (inputRef.current = ref)}
-            onPlacesChanged={handlePlaceChanged}
-          > */}
-<div style={{ 
-  position: "absolute", 
-  top: "60px", 
-  left: "10px", 
-  display: "flex", 
-  alignItems: "center" 
-}}>
-  <select
-    style={{
-      width: "120px",
-      padding: "10px",
-      border: "1px solid #ccc",
-      backgroundColor: "white",
-      color: "black",
-      fontSize: "14px"
-    }}
-    value={address}
-    onChange={(e) => setAddress(e.target.value)}
-  >
-    <option value="">Select a zip code</option>
-    {schools?.map((school,index) => (
-      <option key={index} value={school['ZIP Code']}>
-        {school['ZIP Code']}
-      </option>
-    ))}
-  </select>
-
-  <button
-    onClick={searchZip}
-    style={{
-      height: "40px",
-      backgroundColor: "black",
-      color: "white",
-      border: "2px solid black",
-      borderRadius: "8px",
-      fontSize: "14px",
-      fontWeight: "bold",
-      cursor: "pointer",
-      transition: "background-color 0.3s ease"
-    }}
-  >
-    <span>Search</span>
-  </button>
-</div>
-
-
-          {
-            !schoolLat && zipCodes.length>0 && zipCodes.map(zipCode=>(
-              
-                <Marker draggable animation={google.maps.Animation.DROP} onDragEnd={chaangeCoordinate} position={{lat:searchedLat, lng:searchedLng}} />
-              
-            ))
-          }
-          {
-            schoolLat && (
-              <Marker draggable animation={google.maps.Animation.DROP} onDragEnd={chaangeCoordinate} position={{lat:schoolLat, lng:schoolLng}} />
-            )
-          }
-
-          
-          
-          <Circle options={{fillColor:'#FF0000', strokeOpacity:0.8, strokeColor:'#FF0000',strokeWeight:2, fillOpacity:0.35}}/>
-        </GoogleMap>
-        <div className="container mx-auto p-4">
-      {/* Grid layout for cards */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
-        {zipCodes.length > 0 ? (
-          zipCodes.map((school, index) => (
-            <div
-              key={index}
-              className="bg-white shadow-lg rounded-lg border cursor-pointer hover:shadow-xl transition"
-              onClick={() => {
-                toggleExpand(index); // Toggle the expansion of the clicked card
-                fetchLocation(school.Street); // Fetch the location based on the street address
-              }}
+          <div className="flex flex-col sm:flex-row w-full max-w-4xl p-4 gap-2 bg-white shadow-md rounded-lg">
+            <select
+              className="p-3 border rounded w-full sm:w-auto text-gray-700 focus:ring-2 focus:ring-blue-400"
+              value={address}
+              onChange={(e) => setAddress(e.target.value)}
             >
-              {/* Main Card */}
-              <div className="p-4 flex justify-between items-center">
-                <div>
-                  <h2 className="text-lg font-bold text-gray-800">
-                    {school["School Name"]}
-                  </h2>
-                  <p className="text-gray-600">{school.City}</p>
-                </div>
-                {/* Rating */}
-                <div className="flex items-center mt-12">
-                  {renderStars(school.rating || 0)} {/* Default rating to 0 if not available */}
-                </div>
-                {/* Expand/Collapse Icon */}
-                <span className="text-gray-500 text-xl">
-                  {expandedIndex === index ? "▲" : "▼"}
-                </span>
-              </div>
-
-              {/* Expanded Section (Only One Opens at a Time) */}
-              {expandedIndex === index && school.Administrator && ( // Check if there's valid data
-                <div className="p-4 border-t text-gray-700">
-                  <p><span className="font-medium">Administrator:</span> {school.Administrator}</p>
-                  <p><span className="font-medium">State:</span> {school.State}</p>
-                  <p><span className="font-medium">Street:</span> {school.Street}</p>
-                  <p><span className="font-medium">ZIP Code:</span> {school["ZIP Code"]}</p>
-                  <p><span className="font-medium">Phone:</span> {school.Phone}</p>
-                  {school.Website && (
-                    <p>
-                      <span className="font-medium">Website:</span>{" "}
-                      <a
-                        href={school.Website}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-blue-600 hover:underline"
-                      >
-                        {school.Website}
-                      </a>
-                    </p>
-                  )}
-                </div>
+              <option value="">Select a zip code</option>
+              {schools?.map((school) => (
+                <option key={school["ZIP Code"]} value={school["ZIP Code"]}>
+                  {school["ZIP Code"]}
+                </option>
+              ))}
+            </select>
+            <button
+              onClick={searchZip}
+              className="p-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition w-full sm:w-auto"
+            >
+              Search
+            </button>
+          </div>
+          <div className="w-full h-[500px] mt-4 rounded-lg overflow-hidden shadow-lg">
+            <GoogleMap
+              mapContainerClassName="w-full h-full"
+              center={center}
+              zoom={zoom}
+              onLoad={(map) => setMap(map)}
+            >
+              {searchedLat && searchedLng && (
+                <Marker position={{ lat: searchedLat, lng: searchedLng }} />
+              )}
+              <Circle options={{ fillColor: "#4285F4", strokeColor: "#4285F4", radius: radius }} />
+            </GoogleMap>
+          </div>
+          <div className="container mx-auto p-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+              {zipCodes.length > 0 ? (
+                zipCodes.map((school, index) => (
+                  <div
+                    key={index}
+                    className="bg-white shadow-lg rounded-lg border p-4 cursor-pointer transition-transform transform hover:scale-105"
+                    onClick={() => setExpandedIndex(expandedIndex === index ? null : index)}
+                  >
+                    <h2 className="text-lg font-bold text-blue-800">{school["School Name"]}</h2>
+                    <p className="text-gray-600">{school.City}</p>
+                    {expandedIndex === index && (
+                      <div className="border-t mt-2 pt-2 text-gray-700">
+                        <p><strong>State:</strong> {school.State}</p>
+                        <p><strong>Street:</strong> {school.Street}</p>
+                      </div>
+                    )}
+                  </div>
+                ))
+              ) : (
+                <p className="text-center text-gray-500">No schools found.</p>
               )}
             </div>
-          ))
-        ) : (
-          <p className="text-gray-500">No schools found.</p>
-        )}
-      </div>
-    </div>
-
+          </div>
         </>
-
       )}
     </div>
   );
